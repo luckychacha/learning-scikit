@@ -1,0 +1,5 @@
+id,Age,Sex,Embarked,Survived
+0,22,male,S,No
+1,23,female,C,Yes
+2,66,female,S,Yes
+3,77,male,S,Unknown
